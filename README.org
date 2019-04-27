@@ -1,5 +1,7 @@
 #+TITLE: tog
 
+/The code is moved [[https://github.com/Vernacular-ai/tog][here]]/
+
 Tagging interface for NLP-ish data. Specifically for entity region tagging as
 shown here:
 
